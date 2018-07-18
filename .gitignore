@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Data 
+br/receita.federal.gov.br/data/01-collected
+br/receita.federal.gov.br/data/02-cleaned
+br/receita.federal.gov.br/data/03-organized
+br/receita.federal.gov.br/data/04-wrangled
+
 # Distribution / packaging
 .Python
 build/
